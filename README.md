@@ -1,7 +1,7 @@
 # Hello, World
 
 <div id="header" align="center">
-  <a href="https://www.linkedin.com/in/barweiss"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/bweiss"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.twitter.com/barweiss45"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
   <br>
   <img src="./assets/images/code_icon.png" width="100"/>
